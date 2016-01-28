@@ -28,7 +28,7 @@ pref("extensions.sqlitemanager.showMainToolbarIndex", true);
 pref("extensions.sqlitemanager.showMainToolbarDebug", false);
 
 //default extension for sqlite db files
-pref("extensions.sqlitemanager.sqliteFileExtensions", "sqlite");
+pref("extensions.sqlitemanager.sqliteFileExtensions", "sqlite,db,s3db,sqlitedb,sl2,sqlite3,sl3,cls,s2db,db2,sqlite2");
 
 //for search
 pref("extensions.sqlitemanager.searchToggler", true);
